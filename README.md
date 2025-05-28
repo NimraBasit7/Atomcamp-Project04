@@ -58,6 +58,7 @@ This project predicts the chance of admission for applicants using various machi
 | Random Forest (Randomized) | 0.808    | -         |
 | Random Forest (GridSearch) | 0.812    |  -        |
 | Top 5 Features - Linear    | 0.798    | 0.0721    |
+| Top 5 Features - DT    | 0.77    | 0.075    |
 | Top 5 Features - RF        | 0.794    | 0.0728    |
 
 ## 📂 Included in this Notebook
